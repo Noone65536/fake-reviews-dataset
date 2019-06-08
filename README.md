@@ -18,6 +18,8 @@
 2.  用户名相似
 判断标准-其它
 1.  同时间的大量好评
+
+
 Reference
 1."30 Ways You Can Spot Fake Online Reviews"
 https://consumerist.com/2010/04/how-you-spot-fake-online-reviews.html
